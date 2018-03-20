@@ -1,0 +1,27 @@
+[submodule "pack/default/start/emmet-vim"]
+	path = pack/default/start/emmet-vim
+	url = git@github.com:mattn/emmet-vim.git
+[submodule "pack/default/start/nerdcommenter"]
+	path = pack/default/start/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "pack/default/start/vim-airline"]
+	path = pack/default/start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "pack/default/start/vim-airline-themes"]
+	path = pack/default/start/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "pack/default/start/vim-code-dark"]
+	path = pack/default/start/vim-code-dark
+	url = git@github.com:tomasiser/vim-code-dark.git
+[submodule "pack/default/start/vim-node"]
+	path = pack/default/start/vim-node
+	url = git@github.com:moll/vim-node.git
+[submodule "pack/default/start/vim-surround"]
+	path = pack/default/start/vim-surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "pack/default/start/nerdtree"]
+	path = pack/default/start/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "/Users/brycen/.vim/pack/default/start/nerdtree-git-plugin"]
+	path = /Users/brycen/.vim/pack/default/start/nerdtree-git-plugin
+	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
